@@ -1,0 +1,15 @@
+//Define Common SCSS variables
+$primaryColor: #f57c02;
+$hover-primary-color: #fab167;
+
+.center-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+}
+
+body {
+  margin: 0px;
+}

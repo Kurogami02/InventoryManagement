@@ -1,0 +1,32 @@
+{
+  "name": "warehouse-management-webapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 5120",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.5",
+    "@types/antd": "^1.0.0",
+    "@types/node": "20.5.6",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "antd": "^5.8.4",
+    "axios": "^1.5.0",
+    "cookies-next": "^3.0.0",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.4.19",
+    "moment": "^2.29.4",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swr": "^2.2.2",
+    "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
+}
